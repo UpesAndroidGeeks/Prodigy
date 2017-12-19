@@ -50,4 +50,5 @@ public class Crime {
         mUUID= UUID.randomUUID();
         mDate= new Date();
     }
+    private void ashi(){}
 }
